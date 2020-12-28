@@ -20,9 +20,9 @@
 ![](./images/v0-miniE3-v20-mcu.png)
 
 
-### Wiring for MagicLinks / Knacro 1-Channel SSR
+### Wiring for MagicStudios / Knacro 1-Channel SSR
 
-The MagicLinks / Knacro SSR requires 3 wires instead of the 2 referenced above.
+The MagicStudios / Knacro SSR requires 3 wires instead of the 2 referenced above.
 
 ![Knacro Wiring](./images/knacro_ssr_wiring_diagram.png)
 
